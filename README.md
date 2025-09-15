@@ -21,3 +21,7 @@ or can be combined with T3D or other volumetric rendering methods.
 
 A TouchDesigner component for outputting a 3D texture to a volumetric display
 made up of LED curtains controlled via Art-Net.
+
+## Demo Video
+
+[![Volumetric Demo](https://img.youtube.com/vi/AdCHABN6ZCg/maxresdefault.jpg)](https://www.youtube.com/watch?v=AdCHABN6ZCg)
