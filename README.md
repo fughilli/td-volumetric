@@ -24,4 +24,4 @@ made up of LED curtains controlled via Art-Net.
 
 ## Demo Video
 
-[![Volumetric Demo](https://img.youtube.com/vi/AdCHABN6ZCg/maxresdefault.jpg)](https://www.youtube.com/watch?v=AdCHABN6ZCg)
+[![Volumetric Demo](https://img.youtube.com/vi/AdCHABN6ZCg/0.jpg)](https://www.youtube.com/watch?v=AdCHABN6ZCg)
